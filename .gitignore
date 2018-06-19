@@ -48,7 +48,6 @@ hs_err_pid*
 *.history
 *.png
 *.dat
-*.txt
 *.mark
 *.setup
 *.container
